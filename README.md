@@ -12,7 +12,7 @@ The testing is going on different systems.
 <h1>Install and Run</h1>
 1. Download or Clone the Repository.<br>
 2. Open that folder in Terminal (Linux/MacOS) or CMD/Powershell (Windows).<br>
-4. Type the following command : <br><br>
+3. Type the following command : <br><br>
 <i>
 
 For Windows<br>
