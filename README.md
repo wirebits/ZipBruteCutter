@@ -1,4 +1,4 @@
-# ZipDecryptor
+# ZipBruteCutter
 A tool which find the password of password-protected ZIP files from a custom password list.
 
 <h1>Setup</h1>
